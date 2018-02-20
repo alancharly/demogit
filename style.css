@@ -1,0 +1,11 @@
+body{
+	font-family: calibri;
+	margin: 0 auto;
+	width: 1000px;
+}
+h1,h2,h3{
+	text-transform: uppercase;
+}
+p{
+	font-size: 1.2rem
+}
