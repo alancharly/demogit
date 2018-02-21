@@ -11,8 +11,8 @@ p{
 	font-size: 1.2rem;
 	color: #888888;
 }
-@media (max-width: 768px) {
+@media (max-width: 968px) {
 	body{
-		width: 500px
+		width: 700px
 	}
 }
